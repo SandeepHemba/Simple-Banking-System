@@ -1,6 +1,4 @@
-# Spring Boot Banking System (SBS)
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+# Simple Banking System (SBS)
 
 ## Project Overview
 
@@ -172,12 +170,6 @@ mvn spring-boot:run
 4. Commit your changes (`git commit -m 'Add new feature'`)
 5. Push to the branch (`git push origin feature-name`)
 6. Open a Pull Request
-
----
-
-## License
-
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
 ---
 
