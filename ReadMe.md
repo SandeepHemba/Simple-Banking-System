@@ -108,11 +108,7 @@ The project provides a **realistic banking experience** with a modern, interacti
 
 ## Screenshots
 
-> *(Replace with your project screenshots)*
-
-* **Admin Dashboard**
-* **Customer Dashboard**
-* **Transaction History Page**
+> https://drive.google.com/drive/folders/1QhLMCykHOlX1olVfLPs2Eu3iZfCj-iDB
 
 ---
 
